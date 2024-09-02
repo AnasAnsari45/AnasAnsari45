@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas!</h1>
-<h3 align="center">A passionate developer, designer and a soon to be Computer Engineer.</h3>
+<h3 align="center">Computer System Engineer.</h3>
 
 <img align="right" alt="coding gif" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
