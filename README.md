@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anas!</h1>
-<h3 align="center">Computer System Engineer.</h3>
+<h3 align="center">Computer System Engineer</h3>
 
 <img align="right" alt="coding gif" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasansari45&label=Profile%20views&color=0e75b6&style=flat" alt="anasansari45" /> </p>
 
-- 🔭 I’m currently working on **Personify: A deep dive into personalities**
+- 🔭 I’m currently working on **Ez Caption: AI to social media**
 
 - 👯 I’m looking to collaborate on **AI,ML projects.**
 
